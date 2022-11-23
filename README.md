@@ -12,6 +12,8 @@
 <!--언어 사용량-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeuni7&layout=compact&theme=dark)
 
+<!--기술 스택-->
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <!--
 # 네임 뱃지
 #[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://cocoon1787.tistory.com/)
